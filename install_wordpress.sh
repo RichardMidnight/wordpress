@@ -121,11 +121,12 @@ echo open http://localhost
 echo - Installing PHP...
 run_command "sudo apt-get install php" $LINENO
 echo "<?php echo "Hello World!";  ?>" >> /var/www/html/test.php
-echo open http://localhost/test.php in a browser
-if [[ $(ui_yesno "Continue") != y ]]; then
+#echo open http://localhost/test.php in a browser
+if [[ $(ui_yesno "Test PHP in browser.  Continue") != y ]]; then
 	exit
 fi
-
+echo "you should see a webpage that says 'Hello World!'"
+xdg-open http://localhost/test.php
 
 
 echo - Installing MariaDB... 
@@ -154,4 +155,5 @@ sudo chown www-data wordpress -R
 
 echo Done installing Wordpress.
 
-echo go to http://localhost/wordpress to configure it
+#echo go to http://localhost/wordpress to configure it
+xdg-open http://localhost/wordpress
