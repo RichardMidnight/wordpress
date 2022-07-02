@@ -12,12 +12,12 @@ Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi
 6) Export product, fill out rest of products in csv file, Import
 7) Install "WooCommerce Product Search".  Need to buy it.
 8) or maybe "filter everything woocommerce"
-9) Choose a theme (best shop)
+9) 
 
 
 # Install
 
-Paste or type this into a terminal window:
+Paste this into a terminal window:
 
     
     wget https://raw.githubusercontent.com/RichardMidnight/wordpress/main/install_wordpress.sh -O install_wordpress.sh
