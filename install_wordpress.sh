@@ -116,17 +116,25 @@ run_command "sudo apt upgrade"  $LINENO
 echo - Installing Apache...
 run_command "sudo apt-get install apache2" $LINENO
 echo open http://localhost
+if [[ $(ui_yesno "Test Apache in browser.  Continue") = y ]]; then
+	echo "you should see a webpage that says 'Apache2 Debian Default Page'"
+    xdg-open http://localhost
+    read -n1 -p "Press any key to continue"
+fi
+
 
 
 echo - Installing PHP...
 run_command "sudo apt-get install php" $LINENO
-echo "<?php echo "Hello World!";  ?>" >> /var/www/html/test.php
+echo '<?php echo "Hello World!";  ?>' > test.php
+sudo mv test.php /var/www/html/test.php
 #echo open http://localhost/test.php in a browser
-if [[ $(ui_yesno "Test PHP in browser.  Continue") != y ]]; then
-	exit
+if [[ $(ui_yesno "Test PHP in browser.  Continue") = y ]]; then
+	echo "you should see a webpage that says 'Hello World!'"
+    xdg-open http://localhost/test.php
+    read -n1 -p "Press any key to continue"
 fi
-echo "you should see a webpage that says 'Hello World!'"
-xdg-open http://localhost/test.php
+
 
 
 echo - Installing MariaDB... 
@@ -138,12 +146,19 @@ echo Configure MariaDb...
 #GRANT ALL ON wordpress.* TO 'wordpress'@'localhost';
 #quit
 sudo mysql -uroot -e "CREATE USER 'wordpress'@'localhost' IDENTIFIED BY 'password';"
-sudo mysql -uroot -e "CREATE DATABASE wordpress"
+sudo mysql -uroot -e "CREATE DATABASE wordpress;"
 sudo mysql -uroot -e "GRANT ALL ON wordpress.* TO 'wordpress'@'localhost';"
 sudo mysql -uroot -e "SHOW DATABASES;"
-if [[ $(ui_yesno "Continue") != y ]]; then
-	exit
-fi
+echo Done installing MariaDB
+#if [[ $(ui_yesno "Continue") != y ]]; then
+#	exit
+#fi
+
+
+echo - Installing PH MySQL...
+run_command "sudo apt-get install php-mysql" $LINENO
+sudo service apache2 restart
+
 
 
 echo - Installing WordPress...
