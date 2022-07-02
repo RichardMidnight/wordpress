@@ -8,7 +8,7 @@ Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi
 2) Run the install_wordpress.sh script (below) to install wordpress and needed components.
 3) Install WooCommerce plug-in.  Plugins, add, woocommerce, install, activate.
 4) Select a theme (boutique?)
-5) Add a product. 
+5) Add a product or two. 
 6) Export product, fill out rest of products in csv file, Import
 7) Install "WooCommerce Product Search".  Need to buy it.
 8) or maybe "filter everything woocommerce"
