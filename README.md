@@ -5,6 +5,7 @@ Notes about setting up wordpress on Raspberry Pi
 Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi/
 
 And this video to install and configure WooCommerce.  https://www.youtube.com/watch?v=gNnPX2AEk6U
+Add the wooCommerce plug in, then go to 13:36 in the video and continue
 
 Summary:
 1) Flash Raspberry PI OS to an SD card and boot your pi
