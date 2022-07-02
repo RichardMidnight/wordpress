@@ -3,6 +3,7 @@
 Notes about setting up wordpress on Raspberry Pi
 
 Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi/
+And this video to install and configure WooCommerce.  https://www.youtube.com/watch?v=gNnPX2AEk6U
 
 1) Flash Raspberry PI OS to an SD card and boot your pi
 2) Run the install_wordpress.sh script (below) to install wordpress and needed components.
