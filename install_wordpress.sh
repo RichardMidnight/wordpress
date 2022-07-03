@@ -160,6 +160,11 @@ run_command "sudo apt-get install php-mysql" $LINENO
 sudo service apache2 restart
 
 
+echo - Installing php-xml
+# https://stackoverflow.com/questions/38793676/php-xml-extension-not-installed
+run_command "sudo apt-get install php-xml" $LINENO
+run_command "sudo service apache2 restart" $LINENO
+
 
 echo - Installing WordPress...
 run_command "sudo wget https://wordpress.org/latest.zip -O /var/www/html/wordpress.zip" @LINENO
