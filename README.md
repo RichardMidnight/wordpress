@@ -8,13 +8,23 @@ And this video to install and configure WooCommerce.  https://www.youtube.com/wa
 Add the wooCommerce plug in, then go to 13:36 in the video and continue
 
 Summary:
-1) Flash Raspberry PI OS to an SD card and boot your pi
+1) Get Linux up and running
+    - Flash Raspberry PI OS to an SD card and boot your pi
+    - Or install it on a virtual machine
+    
 2) Run the install_wordpress.sh script (below) to install wordpress and needed components.
-3) Install WooCommerce plug-in:  Plugins, add, woocommerce, install, activate.
-4) Install "WooCommerce Product Search".  Need to buy it.  - maybe NOT
-5) Install "filter everything woocommerce" plugin:  Plugins, add, filter everything woocommerce, install activate.
-6) Select a theme (boutique?)
-7) Add a product or two. 
+    - Open a terminal.  Paste in the install from below.
+
+3) Install WooCommerce and extras...
+    - login to wordpress admin panel: www.localhost/wordpress
+    - Install WooCommerce plug-in:  Plugins, add, woocommerce, install, activate.
+    - NO Install "WooCommerce Product Search".  Need to buy it.  - maybe NOT
+    - Install "filter everything woocommerce" plugin:  Plugins, add, filter everything woocommerce, install activate.
+
+6) Configure WooCommerce...
+    - Select a theme (boutique?)
+    - Add a product or two. 
+    
 8) Export product, fill out rest of products in csv file, Import
 9)
 11) 
