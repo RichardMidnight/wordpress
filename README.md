@@ -22,14 +22,12 @@ Summary:
         - Block Navigation
         - Themify - WooCommerce Product filter
         - Blocksy companion ???
-        - Stackable Gutenburg Blocks?
-
+        - XXX Stackable Gutenburg Blocks?
 
 4) Configure WooCommerce...
-    - Select a theme blocksy
-    - XXX install blockey companion
-    - blocksy extensions "wodgets"
-    - plugins: "Stackable Gutenburg Blocks"
+    - Select theme blocksy
+        - extensions: "widgets"
+        - useful plugins: "Stackable - Gutenburg Blocks"
     
 5) Enter products:
     -  Enter them or Import them.
