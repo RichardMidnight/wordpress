@@ -17,7 +17,7 @@ Summary:
 
 3) Install WordPress Plugins ...
     - login to wordpress admin panel: www.localhost/wordpress
-    - Plugins, add
+    - Plugins, install and activate:
         - WooCommerce  
         - Block Navigation
         - Themify - WooCommerce Product filter
