@@ -12,17 +12,16 @@ Summary:
     - Flash Raspberry PI OS to an SD card and boot your pi
     - Or install it on a virtual machine
     
-2) Run the install_wordpress.sh script (below) to install wordpress and needed components.
+2) Install WordPress by running the install_wordpress.sh script (below).
     - Open a terminal.  Paste in the install from below.
 
-3) Install Plugins ...
+3) Install WordPress Plugins ...
     - login to wordpress admin panel: www.localhost/wordpress
     - Plugins, add
         - WooCommerce  
         - Block Navigation
         - Themify - WooCommerce Product filter
         - Blocksy companion ???
-        - XXX Stackable Gutenburg Blocks?
 
 4) Configure WooCommerce...
     - Select theme blocksy
@@ -35,7 +34,7 @@ Summary:
 
 
 
-# Install
+# Install Wordpress on Linux
 
 Paste this into a terminal window:
 
