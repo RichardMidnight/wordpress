@@ -22,6 +22,7 @@ Summary:
         - Block Navigation
         - Themify - WooCommerce Product filter
         - Blocksy companion ???
+        - updraftplus to back it up
 
 4) Configure WooCommerce...
     - Select theme blocksy
