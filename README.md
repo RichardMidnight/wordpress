@@ -27,11 +27,18 @@ Summary:
     - Select theme blocksy
         - extensions: "widgets"
         - useful plugins: "Stackable - Gutenburg Blocks"
-    
-5) Enter products:
-    -  Enter them or Import them.
-    - Export product, fill out rest of products in csv file, Import
 
+
+5) Import graphics into
+    - http://localhost/wordpress/wp-content/uploads/2022/07/VDTT4_600p.jpg
+
+
+6) Enter products:
+    - Enter them or Import them.
+    - Export product, fill out rest of products in csv file, Import
+    - import file from above
+    
+    
 
 
 # Install Wordpress on Linux
