@@ -109,12 +109,12 @@ fi
 
 
 echo - Updating operating system...
-run_command "sudo apt update" $LINENO
-run_command "sudo apt upgrade"  $LINENO
+run_command "sudo apt update -y" $LINENO
+run_command "sudo apt upgrade -y"  $LINENO
 
 
 echo - Installing Apache...
-run_command "sudo apt-get install apache2" $LINENO
+run_command "sudo apt-get install apache2 -y" $LINENO
 echo open http://localhost
 if [[ $(ui_yesno "Test Apache in browser.  Continue") = y ]]; then
 	echo "you should see a webpage that says 'Apache2 Debian Default Page'"
@@ -125,7 +125,7 @@ fi
 
 
 echo - Installing PHP...
-run_command "sudo apt-get install php" $LINENO
+run_command "sudo apt-get install php -y" $LINENO
 echo '<?php echo "Hello World!";  ?>' > test.php
 sudo mv test.php /var/www/html/test.php
 #echo open http://localhost/test.php in a browser
@@ -138,7 +138,7 @@ fi
 
 
 echo - Installing MariaDB... 
-run_command "sudo apt-get install mariadb-server" $LINENO
+run_command "sudo apt-get install mariadb-server -y" $LINENO
 echo Configure MariaDb...
 #run_command "sudo mysql -uroot" $LINENO
 #CREATE USER 'wordpress'@'localhost' IDENTIFIED BY 'password';
@@ -156,13 +156,13 @@ echo Done installing MariaDB
 
 
 echo - Installing PH MySQL...
-run_command "sudo apt-get install php-mysql" $LINENO
+run_command "sudo apt-get install php-mysql -y" $LINENO
 sudo service apache2 restart
 
 
 echo - Installing php-xml
 # https://stackoverflow.com/questions/38793676/php-xml-extension-not-installed
-run_command "sudo apt-get install php-xml" $LINENO
+run_command "sudo apt-get install php-xml -y" $LINENO
 run_command "sudo service apache2 restart" $LINENO
 
 
