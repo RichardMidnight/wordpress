@@ -15,9 +15,22 @@ Summary:
 2) Install WordPress by running the install_wordpress.sh script (below).
     - Open a terminal.  Paste in the install from below.
 
-3) Install WordPress Plugins ...
+3) Install WooCommerce
     - login to wordpress admin panel: www.localhost/wordpress
-    - Plugins, install and activate:
+    - Plugins, add new, WooCommerce, Install and Activate.
+    
+4) Import graphics into
+    - http://localhost/wordpress/wp-content/uploads/2022/07/VDTT4_600p.jpg
+
+
+5) Enter products:
+    - Enter them or Import them.
+    - Export product, fill out rest of products in csv file, Import
+    - import file from above  
+    
+    
+ now... still figuring it out...
+ 
         - WooCommerce  
         - Block Navigation
         - Themify - WooCommerce Product filter
@@ -30,14 +43,7 @@ Summary:
         - useful plugins: "Stackable - Gutenburg Blocks"
 
 
-5) Import graphics into
-    - http://localhost/wordpress/wp-content/uploads/2022/07/VDTT4_600p.jpg
 
-
-6) Enter products:
-    - Enter them or Import them.
-    - Export product, fill out rest of products in csv file, Import
-    - import file from above
     
     
 
