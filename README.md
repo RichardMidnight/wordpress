@@ -30,6 +30,10 @@ Summary:
     
     
  now... still figuring it out...
+    - Theme: Th Hot Shop
+    - plugins: TH Advance Product Search
+ 
+ 
  
         - WooCommerce  
         - Block Navigation
