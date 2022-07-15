@@ -20,6 +20,7 @@ Summary:
     - Plugins, add new, WooCommerce, Install and Activate.
     
 4) Import graphics into
+    - /var/www/html/wordpress/wp-content/uploads ...
     - http://localhost/wordpress/wp-content/uploads/2022/07/VDTT4_600p.jpg
 
 
