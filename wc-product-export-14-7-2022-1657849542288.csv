@@ -1,0 +1,84 @@
+ID,Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Date sale price starts,Date sale price ends,Tax status,Tax class,In stock?,Stock,Low stock amount,Backorders allowed?,Sold individually?,Weight (lbs),Length (in),Width (in),Height (in),Allow customer reviews?,Purchase note,Sale price,Regular price,Categories,Tags,Shipping class,Images,Download limit,Download expiry days,Parent,Grouped products,Upsells,Cross-sells,External URL,Button text,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Attribute 2 name,Attribute 2 value(s),Attribute 2 visible,Attribute 2 global,Attribute 3 name,Attribute 3 value(s),Attribute 3 visible,Attribute 3 global
+13,simple,VZBT4,"4"" TAB-Expiring Visitor Badges",1,0,visible,"4"" TAB-Expiring Visitor Badges (in rolls of 250 badges) for most Direct Thermal printers","4"" TAB-Expiring Visitor Badges (in rolls of 250 badges) for most Direct Thermal printers",,,taxable,,1,,,0,0,,,,,1,,,229,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, Expiring, TAB",,http://localhost/wordpress/wp-content/uploads/2022/07/VDTT4_280p.jpg,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+14,simple,VDT-TM4,"4"" TANDEM-Expiring Direct Thermal Badges",1,1,visible,"<h1>4"" TANDEM-Expiring Visitor Badges (in rolls of 250 badges) for most Direct Thermal printers</h1>","<h1>4"" TANDEM-Expiring Visitor Badges (in rolls of 250 badges) for most Direct Thermal printers</h1>",,,taxable,,1,,,0,0,,,,,1,,,189,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, Expiring, TANDEM",,,,,,,,,,,0,Style,TANDEM-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+15,simple,bk,Tab expiring book,1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,200,Visitor Badges > Visitor Badge Sign-In BOOKS,"3 inch, TAB",,,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,3-Inch,1,1,,,,
+16,simple,VDTT3,"3"" TAB-Expiring Visitor Badges",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,194,Visitor Badges > Visitor Badge Printer ROLLS,"3 inch, TAB",,http://localhost/wordpress/wp-content/uploads/2022/07/VDTT3_280p.jpg,,,,,,,,,0,Style,TAB-Expiring,2,2,Size,4-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+17,simple,VIJT4,"4"" TAB-Expiring Inkjet Badges",1,0,visible,"<h1>4"" TAB-Expiring Inkjet Badges (in rolls of 250 badges) for Epson and Primera printers</h1>","<h1>4"" TAB-Expiring Inkjet Badges (in rolls of 250 badges) for Epson and Primera printers</h1>
+\n&nbsp;
+\n
+\nOutside diameter of rolls: 4"" (2"" core)
+\n
+\nBadge size: 4"" x 2.3125""
+\n
+\n# badges/pack: 1,000 (4 rolls of 250 badges)",,,taxable,,1,,,0,0,,,,,1,,,267,Visitor Badges > Visitor Badge Printer ROLLS > InkJet,"4 inch, TAB",,http://localhost/wordpress/wp-content/uploads/2022/07/VDTT4_280p-1.jpg,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Inkjet Label Printers,1,1
+18,simple,VIJT3,"3"" TAB-Expiring Inkjet Badges",1,0,visible,"<h1>3"" TAB-Expiring Inkjet Badges (in rolls of 250 badges) for Epson and Primera printers</h1>","<h1>3"" TAB-Expiring Inkjet Badges (in rolls of 250 badges) for Epson and Primera printers</h1>",,,taxable,,1,,,0,0,,,,,1,,,215,Visitor Badges > Visitor Badge Printer ROLLS > InkJet,"3 inch, TAB",,http://localhost/wordpress/wp-content/uploads/2022/07/VDTT3_280p.jpg,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,3-Inch,1,1,Compatible Printers,Inkjet Label Printers,1,1
+19,simple,VIJF4,"4"" FULL-Expiring Inkjet Badges",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,320,Visitor Badges > Visitor Badge Printer ROLLS > InkJet,"4 inch, FULL",,,,,,,,,,,0,Style,FULL-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Inkjet Label Printers,1,1
+20,simple,VIJF3,"3"" FULL-Expiring Inkjet Badges",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,267,Visitor Badges > Visitor Badge Printer ROLLS > InkJet,"3 inch, FULL",,,,,,,,,,,0,Style,FULL-Expiring,1,1,Size,3-Inch,1,1,Compatible Printers,Inkjet Label Printers,1,1
+21,simple,VZBT4-2RL,"4"" TAB-Expiring Visitor Badges (in rolls of 500 badges) for Direct Thermal printers that can accept a 4.4"" dia. roll (e.g. Zebra)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,229,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, TAB",,,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+22,simple,VBRT3,"3"" TAB-Expiring Direct Thermal Badges (in rolls of 250 badges) for Brother Printers",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,229,Visitor Badges > Visitor Badge Printer ROLLS,"3 inch, TAB",,,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,3-Inch,1,1,Compatible Printers,Brother QL,1,1
+23,simple,VBRF4,"4"" FULL-Expiring Direct Thermal Visitor Badges (in rolls of 250 badges) for Brother Printers",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,292,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, FULL",,,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Brother QL,1,1
+24,simple,VIJN4-SK-4RL,"4"" NON-Expiring Inkjet Badges for Epson and Primera Printers",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,69,Visitor Badges > Visitor Badge Printer ROLLS > InkJet,"4 inch, NON",,,,,,,,,,,0,Style,NON-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Inkjet Label Printers,1,1
+25,simple,VZBN4,"4"" NON-Expiring Visitor Badges (in rolls of 250 badges) for most Direct Thermal printers",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,69,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, NON",,,,,,,,,,,0,Style,NON-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+26,simple,VZBN4-2RL,"4"" NON-Expiring Visitor Badges (in rolls of 500 badges) for most Direct Thermal printers that can accept a 4.4"" dia. roll (e.g. Zebra)",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,69,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, NON",,,,,,,,,,,0,Style,NON-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+27,simple,VDTN3,"3"" NON-Expiring Visitor Badges (in rolls of 250 badges) for most Direct Thermal printers",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,63,Visitor Badges > Visitor Badge Printer ROLLS,"3 inch, NON",,,,,,,,,,,0,Style,NON-Expiring,1,1,Size,3-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+28,simple,VDTN4-CLR,"4"" NON-Expiring Color Visitor Badges (in rolls of 250 badges) for most Direct Thermal printers",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,83,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, NON",,http://localhost/wordpress/wp-content/uploads/2022/07/71D4dQf0v2L._AC_UL320_.jpg,,,,,,,,,0,Style,NON-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Direct Thermal,1,1
+29,simple,VBRN4,"4"" NON-Expiring Direct Thermal Visitor Badges (in rolls of 250 badges) for Brother printers",1,0,visible,,,,,taxable,,1,,,0,0,,,,,1,,,79,Visitor Badges > Visitor Badge Printer ROLLS,"4 inch, NON",,,,,,,,,,,0,Style,NON-Expiring,1,1,Size,4-Inch,1,1,Compatible Printers,Brother QL,1,1
+36,simple,V052EST-50-D-B,Custom Small TAB-Expiring Badges - Style 808/807,1,0,visible,,"Badge size: 3"" x 2""
+\n
+\nStyle 808 is printed with ""Destination"", to show where visitors are GOING. Recommended for Schools and Hospitals.
+\n
+\nStyle 807 is printed with ""Company"", to show where visitors are FROM. Recommended for Corporations and Government Agencies.
+\n
+\nMake your choices at right.
+\n
+\nSave $12/book when you choose black text or logo.",,,taxable,,1,,,0,0,,,,,1,,,173,Visitor Badges > Visitor Badge Sign-In BOOKS,,,,,,,,,,,,0,Style,TAB-Expiring,1,1,Size,3-Inch,1,1,,,,
+38,simple,EPK-BSE,eVisitor - The Basic Package,1,0,visible,<h1>All you need to get started for $990</h1>,"<h4>The Basic Package (Product SKU: EPK-BSE) for $990, includes:</h4>
+\n<ul>
+\n 	<li><strong>eVisitor Software for one terminal</strong>
+\nFast and easy to use, with convenient, secure cloud storage. After the first year, the software renewal fee is $385 annually per terminal. Stated renewal rate assumes purchase of direct thermal badges from Threshold. If using badges from another provider, add $385 to renewal rate.</li>
+\n 	<li><strong>Printer</strong>
+\nSeiko SLP 650.</li>
+\n 	<li><strong>Badges</strong>
+\n1,000 expiring visitor badges.</li>
+\n 	<li><strong>Printer Cleaning Cards</strong>
+\nFor Seiko SLP 650. 15 cards per pack.</li>
+\n 	<li><strong>Installation, training, and support</strong>
+\nAll provided remotely. <a href=""https://www.thresholdsecurity.com/visitor-management-software/how-it-works/subscription-details/"" target=""_blank"" rel=""noopener"">See details</a>.</li>
+\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,990,Visitor Software,,,http://localhost/wordpress/wp-content/uploads/2022/07/Seiko_BasicPackage_SM.jpg,,,,,,,,,0,,,,,,,,,,,,
+43,simple,EPK-TZ,eVisitor - The Turbo Package with Zebra,1,1,visible,,"<h4>The Turbo Package with Zebra includes:</h4>
+\n<ul>
+\n 	<li><strong>eVisitor Software for one terminal</strong>
+\nFast and easy to use, with convenient, secure cloud storage. After the first year, the software renewal fee is $550 annually per terminal (the renewal fee includes the Driver's License Reader). Stated renewal rate assumes purchase of direct thermal badges from Threshold. If using badges from another provider, add $385 to renewal rate.</li>
+\n 	<li><strong>Printer</strong>
+\nZebra Model #ZD410.</li>
+\n 	<li><strong>Badges</strong>
+\n1,000 expiring visitor badges.</li>
+\n 	<li><strong>Printer Cleaning Kit</strong>
+\n1 printer cleaning pen, 2 printer cleaning swabs.</li>
+\n 	<li><strong>Turbo Driver's License Reader
+\n</strong>Reads a driver's license barcode (to sign in arrivals) and scans a visitor's badge (to sign out departures) in 3 seconds. $165 annual renewal, in addition to the $385 software renewal fee ($550 total, as mentioned above).</li>
+\n 	<li><strong>Desktop Camera and stand
+\n</strong>Take a photo in 10 seconds with the wide-angle lens and Auto-Crop™ program feature.</li>
+\n 	<li><strong>USB 3.0 Hub
+\n</strong>Connect four pieces of equipment to one USB port on your computer.</li>
+\n 	<li><strong>Installation, training, and support
+\n</strong>All provided remotely. <a href=""https://www.thresholdsecurity.com/visitor-management-software/how-it-works/subscription-details/"" target=""_blank"" rel=""noopener"">See details</a>.</li>
+\n</ul>
+\n<h4><a href=""https://calendly.com/evisitor-demo"">BOOK a DEMO of eVisitor Software</a></h4>",,,taxable,,1,,,0,0,,,,,1,,,2780,Visitor Software,,,http://localhost/wordpress/wp-content/uploads/2022/07/eVP_TurboZebra_350p.jpg,,,,,,,,,0,,,,,,,,,,,,
+44,simple,EPK-TEP,eVisitor - The Turbo Color Package,1,0,visible,,"<h4>The Turbo Color Package (Product SKU: EPK-TEP), for $4,460, includes:</h4>
+\n<ul>
+\n 	<li><strong>eVisitor Software for one terminal</strong>
+\nFast and easy to use, with convenient, secure cloud storage. After the first year, the software renewal fee is $550 annually per terminal (the renewal fee includes the Driver's License Reader). Stated renewal rate assumes purchase of direct thermal badges from Threshold. If using badges from another provider, add $385 to renewal rate.</li>
+\n 	<li><strong>Printer</strong>
+\nEpson Model #C3500. Printer comes with a set of four inks and a maintenance box.</li>
+\n 	<li><strong>Badges</strong>
+\n1,000 expiring visitor badges.</li>
+\n 	<li><strong>Turbo Driver's License Reader with hands-free stand
+\n</strong>Reads a driver's license barcode (to sign in arrivals) and scans a visitor's badge (to sign out departures) in 3 seconds. $165 annual renewal, in addition to the $385 software renewal fee ($550 total, as mentioned above).</li>
+\n 	<li><strong>Desktop Camera and stand
+\n</strong>Take a photo in 10 seconds with the wide-angle lens and Auto-Crop™ program feature.</li>
+\n 	<li><strong>USB 3.0 Hub
+\n</strong>Connect four pieces of equipment to one USB port on your computer.</li>
+\n 	<li><strong>Installation, training, and support
+\n</strong>All provided remotely. <a href=""https://www.thresholdsecurity.com/visitor-management-software/how-it-works/subscription-details/"" target=""_blank"" rel=""noopener"">See details</a>.</li>
+\n</ul>",,,taxable,,1,,,0,0,,,,,1,,,4460,Visitor Software,,,http://localhost/wordpress/wp-content/uploads/2022/07/Epson-Color-Package-2021_300p.jpg,,,,,,,,,0,,,,,,,,,,,,
