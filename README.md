@@ -19,11 +19,12 @@ Summary:
     - login to wordpress admin panel: www.localhost/wordpress
     - Plugins, add new, WooCommerce, Install and Activate.
     
+
+Import Threshold info into site:
+
 4) Import media into
-    - download media file from here.
+    - Download media file from above.
     - Media, Library, add new ...
-    - no.  /var/www/html/wordpress/wp-content/uploads ...
-    - no.   http://localhost/wordpress/wp-content/uploads/2022/07/VDTT4_600p.jpg
 
 
 5) Enter products:
