@@ -19,7 +19,6 @@ Summary:
     - login to wordpress admin panel: www.localhost/wordpress
     - Plugins, add new, WooCommerce, Install and Activate.
     
-
 Import Threshold info into site:
 
 4) Import media
@@ -29,16 +28,16 @@ Import Threshold info into site:
 
 5) Import products
     - Download products csv from above.
-        - click on the file, raw, r-click download ...
-    - Export product, fill out rest of products in csv file, Import
+        - Click on the file, raw, r-click download ...
+    - Products (http://localhost/wordpress/wp-admin/edit.php?post_type=product), import ...
     
     
- now... still figuring it out...
+ 6) Testing Themes and plug-ins and extensions...
     - Theme: Th Hot Shop
-    - plugins: TH Advance Product Search
- 
- 
- 
+    - Plugins: TH Advance Product Search
+    - Then add TH Product search widgits to WooCommerce sidebar
+    
+    
         - WooCommerce  
         - Block Navigation
         - Themify - WooCommerce Product filter
