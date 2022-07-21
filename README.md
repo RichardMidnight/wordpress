@@ -8,18 +8,24 @@ And this video to install and configure WooCommerce.  https://www.youtube.com/wa
 Add the wooCommerce plug in, then go to 13:36 in the video and continue
 
 Summary:
+
 1) Get Linux up and running
     - Flash Raspberry PI OS to an SD card and boot your pi
     - Or install it on a virtual machine
     
 2) Install WordPress by running the install_wordpress.sh script (below).
-    - Open a terminal.  Paste in the install from below.
-
+    
+    Open a terminal.
+    Paste this into a terminal window:
+    
+        wget https://raw.githubusercontent.com/RichardMidnight/wordpress/main/install_wordpress.sh -O install_wordpress.sh
+        bash install_wordpress.sh
+ 
+ 
 3) Install WooCommerce
     - login to wordpress admin panel: www.localhost/wordpress
     - Plugins, add new, WooCommerce, Install and Activate.
-    
-Import Threshold info into site:
+  
 
 4) Import media
     - Download media file from above.
@@ -30,6 +36,7 @@ Import Threshold info into site:
     - Download products csv from above.
         - Click on the file, raw, r-click download ...
     - Products (http://localhost/wordpress/wp-admin/edit.php?post_type=product), import ...
+    
     
     
  6) Testing Themes and plug-ins and extensions...
@@ -57,9 +64,4 @@ Import Threshold info into site:
 
 # Install Wordpress on Linux
 
-Paste this into a terminal window:
 
-    
-    wget https://raw.githubusercontent.com/RichardMidnight/wordpress/main/install_wordpress.sh -O install_wordpress.sh
-    bash install_wordpress.sh
- 
