@@ -22,15 +22,15 @@ Summary:
 
 Import Threshold info into site:
 
-4) Import media into
+4) Import media
     - Download media file from above.
     - Media, Library, add new ...
 
 
-5) Enter products:
-    - Enter them or Import them.
+5) Import products
+    - Download products csv from above.
+        - click on the file, raw, r-click download ...
     - Export product, fill out rest of products in csv file, Import
-    - import file from above  
     
     
  now... still figuring it out...
