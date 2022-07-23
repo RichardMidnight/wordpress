@@ -25,6 +25,8 @@ Summary:
 3) Install WooCommerce
     - login to wordpress admin panel: www.localhost/wordpress
     - Plugins, add new, WooCommerce, Install and Activate.
+    - "WooCommerce Product Search" by itthinx
+    - "Products Compare for WooCommerce" by berocket
   
 
 4) Import media
@@ -43,25 +45,17 @@ Summary:
     - Theme: Th Hot Shop
     - Plugins: TH Advance Product Search
     - Then add TH Product search widgits to WooCommerce sidebar
+    - ThemeHunk MegaMenu Plus
+    - Unlimited Blocks For Gutenberg
+    - Hunk Companion
     
-    
-        - WooCommerce  
-        - Block Navigation
-        - Themify - WooCommerce Product filter
-        - Blocksy companion ???
-        - updraftplus to back it up
+    - updraftplus to back it up
 
-4) Configure WooCommerce...
-    - Select theme blocksy
-        - extensions: "widgets"
-        - useful plugins: "Stackable - Gutenburg Blocks"
+7) Configure WooCommerce...
+    - COLORS: Appearance, customize,Total Color and BG options, Global colors, Theme color: #e85f35  ??
 
 
 
-    
-    
 
-
-# Install Wordpress on Linux
 
 
