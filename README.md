@@ -1,6 +1,7 @@
 # WordPress
 
-Notes about setting up wordpress on Raspberry Pi
+Notes about setting up wordpress on Raspberry Pi.
+popular competition is shopify
 
 Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi/
 
