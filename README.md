@@ -54,6 +54,7 @@ Summary:
 
 7) Configure WooCommerce...
     - COLORS: Appearance, customize,Total Color and BG options, Global colors, Theme color: #e85f35  ??
+    - Threshold Tangerine=ef4a25  Teal=008D97.   Gold=F9A11B
 
 
 
