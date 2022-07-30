@@ -1,6 +1,14 @@
-# WordPress
+# WordPress demo
 
-Notes about setting up wordpress on Raspberry Pi.
+    Notes regarding this demo
+    1) It is a demonstration of Wordpress capabilities only.
+    2) It is not complete or even correct.
+    3) The Theme and colors were seleted because then are "good enough" to demonstrate capabilities.
+    4) Enough data was entered to give a flavor of how it can work. It is not complete or even all correct.
+
+
+
+# Notes about setting up wordpress.
 popular competition is shopify
 
 Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi/
