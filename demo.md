@@ -2,7 +2,8 @@
 
     Notes regarding this demo
     1) It is a demonstration of Wordpress capabilities only.
-    2) It is not complete or even correct.
+    2) It is not complete or even correct
+    It is certainly not ready to be released to the public.
     3) The Theme and colors were seleted because then are "good enough" to demonstrate capabilities.
     4) Enough data was entered to give a flavor of how it can work. It is not complete or even all correct.
     5) This entire demo is using free software except for the Products Filter. 
