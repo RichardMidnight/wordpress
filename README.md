@@ -1,11 +1,6 @@
 
-# Notes about setting up wordpress.
+# Setting up wordpress.
 popular competition is shopify
-
-Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi/
-
-And this video to install and configure WooCommerce.  https://www.youtube.com/watch?v=gNnPX2AEk6U
-Add the wooCommerce plug in, then go to 13:36 in the video and continue
 
 Summary:
 
@@ -13,35 +8,35 @@ Summary:
     - Flash Raspberry PI OS to an SD card and boot your pi
     - Or install it on a virtual machine
     
-2) Install WordPress by running the install_wordpress.sh script (below).
-    
-    Open a terminal.
-    Paste this into a terminal window:
+2) Install WordPress:  Open a terminal.  Paste this into a terminal window:
     
         wget https://raw.githubusercontent.com/RichardMidnight/wordpress/main/install_wordpress.sh -O install_wordpress.sh
         bash install_wordpress.sh
  
- 
-3) Install WooCommerce
-    - login to wordpress admin panel: www.localhost/wordpress
+3) Configure Wordpress
+    - login to wordpress admin panel: www.localhost/wordpress    
+    - set wordpress address: http://raspberrypi/wordpress
+    
+4) Set your workstation to find raspberry pi:
+    - Get your IP address of your wordpress box by typing "ip addr" in a terminal window
+    - Edit Hosts file on your workstation by typing "sudo nano /etc/hosts" in a terminal.  Enter IP and computer name
+
+5) Install WooCommerce
     - Plugins, add new, WooCommerce, Install and Activate.
     - "WooCommerce Product Search" by itthinx
-    - "Products Compare for WooCommerce" by berocket
-  
+    - "Products Compare for WooCommerce" by berocket ??
 
-4) Import media
+6) Import media
     - Download media file from above.
     - Media, Library, add new ...
 
-
-5) Import products
+7) Import products
     - Download products csv from above.
         - Click on the file, raw, r-click download ...
     - Products (http://localhost/wordpress/wp-admin/edit.php?post_type=product), import ...
+   
     
-    
-    
- 6) Testing Themes and plug-ins and extensions...
+ 8) Testing Themes and plug-ins and extensions...
     - Theme: Th Hot Shop
     - Plugins: TH Advance Product Search
     - Then add TH Product search widgits to WooCommerce sidebar
@@ -51,12 +46,18 @@ Summary:
     
     - updraftplus to back it up
 
-7) Configure WooCommerce...
+9) Configure Wordpress theme ...
     - COLORS: Appearance, customize,Total Color and BG options, Global colors, Theme color: #e85f35  ??
     - Threshold Tangerine=ef4a25  Teal=008D97.   Gold=F9A11B
 
 
 
+References:
 
+Follows these instructions:  https://raspberrytips.com/wordpress-on-raspberry-pi/
+
+And this video to install and configure WooCommerce.  https://www.youtube.com/watch?v=gNnPX2AEk6U
+
+Add the wooCommerce plug in, then go to 13:36 in the video and continue
 
 
