@@ -10,7 +10,7 @@
     
     
     - Enough data was entered to give a flavor of how it can work. It is not complete or even all correct.
-    - I scraped a bunch of data off our current site.
+    - Most of the info and images were scraped off our current site. 
     - This entire demo is using free software except for the Products Filter. 
     - There are many upgrades you can pay for.
     - Zero code was written for this demo.  It is all point-and-click.
