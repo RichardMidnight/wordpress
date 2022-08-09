@@ -11,6 +11,7 @@
     - Product categorizing, filtering, upsells, cross-sells, ratings...
     - Canned shopping cart and 
     
+    - I want to show how much is available "out of the box".
     - We would need to hire professional web developer, and popssibly some coding talent.  But there might not be that much to do.
 
     Notes regarding this demo
