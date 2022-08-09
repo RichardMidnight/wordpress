@@ -3,6 +3,15 @@
     This is a PILOT PROJECT used to determine if it is worth continuing.
     
     ~ 50 % of our new business comes from web leads!!
+    
+    Value:
+    - Should be less expensive to own and provide a better user experience.  This has NOT been quoted yet.
+    - Wordpress is a simple Industry Standard Platform for building websites including e-commerce web sites.
+    - Tons of Themes and web pieces available without any coding... yet you can code specific functions if you need to.
+    - Product categorizing, filtering, upsells, cross-sells, ratings...
+    - Canned shopping cart and 
+    
+    - We would need to hire professional web developer, and popssibly some coding talent.  But there might not be that much to do.
 
     Notes regarding this demo
     - Our current website is filled with great content.  It is so free-form that it is expensive to improve.   
@@ -34,6 +43,8 @@
         - Upsells, Crosssells, Related Products.
         - Product compare
         - Quantity discounts
+        
+     -  
     
 
   Changes I would start with if continuing with this theme:
