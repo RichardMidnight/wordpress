@@ -1,6 +1,13 @@
 # WordPress demo
 
+    This is a PILOT PROJECT used to determine if it is worth continuing.
+    
+    ~ 50 % of our new business comes from web leads!!
+
     Notes regarding this demo
+    - Our current website is filled with great content.  It is so free-form that it is expensive to improve.   
+    
+    
     - It is a demonstration of Wordpress capabilities only.
     - It is not complete or even correct
     - It is certainly not ready to be released to the public.
@@ -28,3 +35,12 @@
         - Product compare
         - Quantity discounts
     
+
+  Changes I would start with if continuing with this theme:
+  -  Select Color scheme.
+  -  Add graphic to Category text
+  -  Scale all product images to be the same size
+  -  Clean up "Add to card" 
+  -  Show section of "sub-categories", then a seperate section on "products"
+
+
