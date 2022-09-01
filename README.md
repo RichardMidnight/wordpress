@@ -50,7 +50,17 @@ Summary:
     - COLORS: Appearance, customize,Total Color and BG options, Global colors, Theme color: #e85f35  ??
     - Threshold Tangerine=ef4a25  Teal=008D97.   Gold=F9A11B
 
-
+10) Pilot Project wish list (based on Aug 2022 pilot)
+    - Advice on Design and Implementation.  (theme, plugins, colors, look and feel...)
+    - Advice on hosting, payment, shipping ... etc.  solutions.
+    - Improved color scheme, look and feel.  Better theme?
+    - Sidebar filtering checkboxes (like rei.com?)
+    - Category listing to show graphics as well as text.
+    - Product Gallery to show Categories and Products... plesently seperated
+    - Quotes on future options:
+        -   Integration with MS CRM
+        -   Integration with our ERP    
+    
 
 References:
 
