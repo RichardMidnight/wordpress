@@ -36,7 +36,7 @@ Summary:
     - Products (http://localhost/wordpress/wp-admin/edit.php?post_type=product), import ...
    
     
- 8) Testing Themes and plug-ins and extensions...
+ 8) Testing Themes and plug-ins ...
     - Theme: Th Hot Shop
     - Plugins: TH Advance Product Search
     - Then add TH Product search widgits to WooCommerce sidebar
@@ -44,7 +44,7 @@ Summary:
     - Unlimited Blocks For Gutenberg
     - Hunk Companion
     
-    - updraftplus to back it up
+    - updraftplus to back it up?
 
 9) Configure Wordpress theme ...
     - COLORS: Appearance, customize,Total Color and BG options, Global colors, Theme color: #e85f35  ??
