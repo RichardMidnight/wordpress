@@ -1,12 +1,12 @@
 
-# Setting up wordpress.
-popular competition is shopify
+# Setting up wordpress on a Raspberry pi.
+a popular competition is shopify
 
 Summary:
 
 1) Get Linux up and running
     - Flash Raspberry PI OS to an SD card and boot your pi
-    - Or install it on a virtual machine
+    - Or install Raspberry Pi OS on a virtual machine
     
 2) Install WordPress:  Open a terminal.  Paste this into a terminal window:
     
