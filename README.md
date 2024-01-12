@@ -7,6 +7,8 @@ Summary:
 1) Get Linux up and running
     - Flash Raspberry PI OS to an SD card and boot your pi
     - Or install Raspberry Pi OS on a virtual machine
+  
+    - update the software:  sudo apt update && sudo apt upgrade && reboot
     
 2) Install WordPress:  Open a terminal.  Paste this into a terminal window:
     
