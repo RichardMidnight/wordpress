@@ -14,7 +14,13 @@ Summary:
         bash install_wordpress.sh
  
 3) Configure Wordpress
-    - login to wordpress admin panel: www.localhost/wordpress    
+    - login to wordpress admin panel: www.localhost/wordpress
+        -  Database = wordpress
+        -  Username = wordpress
+        -  Password = password
+        -  Database Host = localhost
+        -  Table Prefix = wp_
+           
     - set wordpress address: http://raspberrypi/wordpress
     
 4) Set your workstation to find raspberry pi:
