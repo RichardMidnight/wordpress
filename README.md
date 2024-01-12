@@ -24,10 +24,11 @@ Summary:
     - set wordpress address: http://raspberrypi/wordpress
   
     - If you cannot save the wordpress config, it may be a rights issue to the /var/www/html/wordpress folder.
+   
     - Try
-    -
-    -     sudo cp /var/www/html/wordpress/wp-config-sample.php /var/www/html/wordpress/wp-config.php
-    -     sudo nano /var/www/html/wordpress/wp-config.php
+      
+        sudo cp /var/www/html/wordpress/wp-config-sample.php /var/www/html/wordpress/wp-config.php
+        sudo nano /var/www/html/wordpress/wp-config.php
     
 4) Set your workstation to find raspberry pi:
     - Get your IP address of your wordpress box by typing "ip addr" in a terminal window
