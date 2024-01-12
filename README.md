@@ -23,34 +23,33 @@ Summary:
         -  Database Host = localhost
         -  Table Prefix = wp_
            
-    - set wordpress address: http://raspberrypi/wordpress
-  
-    - If you cannot save the wordpress config, it may be a rights issue. Edit the config file directly:
+    If you cannot save the wordpress config, it may be a rights issue. Edit the config file directly:
 
         sudo cp /var/www/html/wordpress/wp-config-sample.php /var/www/html/wordpress/wp-config.php
-      
         sudo nano /var/www/html/wordpress/wp-config.php
+
+   - set wordpress address: http://raspberrypi/wordpress
     
-4) Set your workstation to find raspberry pi:
+5) Set your workstation to find raspberry pi:
     - Get your IP address of your wordpress box by typing "ip addr" in a terminal window
     - Edit Hosts file on your workstation by typing "sudo nano /etc/hosts" in a terminal.  Enter IP and computer name
 
-5) Install WooCommerce
+6) Install WooCommerce
     - Plugins, add new, WooCommerce, Install and Activate.
     - "WooCommerce Product Search" by itthinx
     - "Products Compare for WooCommerce" by berocket ??
 
-6) Import media
+7) Import media
     - Download media file from above.
     - Media, Library, add new ...
 
-7) Import products
+8) Import products
     - Download products csv from above.
         - Click on the file, raw, r-click download ...
     - Products (http://localhost/wordpress/wp-admin/edit.php?post_type=product), import ...
    
     
- 8) Testing Themes and plug-ins ...
+ 9) Testing Themes and plug-ins ...
     - Theme: Th Hot Shop
     - Plugins: TH Advance Product Search
     - Then add TH Product search widgits to WooCommerce sidebar
@@ -60,11 +59,11 @@ Summary:
     
     - updraftplus to back it up?
 
-9) Configure Wordpress theme ...
+10) Configure Wordpress theme ...
     - COLORS: Appearance, customize,Total Color and BG options, Global colors, Theme color: #e85f35  ??
     - Threshold Tangerine=ef4a25  Teal=008D97.   Gold=F9A11B
 
-10) Pilot Project wish list (based on Aug 2022 pilot)
+11) Pilot Project wish list (based on Aug 2022 pilot)
     - Advice on Design and Implementation.  (theme, plugins, colors, look and feel...)
     - Advice on hosting, payment, shipping ... etc.  solutions.
     - Improved color scheme, look and feel.  Better theme?
