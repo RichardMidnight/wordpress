@@ -26,8 +26,9 @@ Summary:
     - If you cannot save the wordpress config, it may be a rights issue to the /var/www/html/wordpress folder.
    
     - Try
-      
+
         sudo cp /var/www/html/wordpress/wp-config-sample.php /var/www/html/wordpress/wp-config.php
+      
         sudo nano /var/www/html/wordpress/wp-config.php
     
 4) Set your workstation to find raspberry pi:
